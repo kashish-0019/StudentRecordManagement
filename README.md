@@ -17,3 +17,8 @@ A simple Java EE web application using Servlets, JSP, Hibernate, and MySQL to ma
 - MySQL Database
 - Apache Tomcat
 - Bootstrap (for UI)
+
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 2](screenshots/Screenshot2.png)
