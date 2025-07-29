@@ -9,7 +9,6 @@ A simple Java EE web application using Servlets, JSP, Hibernate, and MySQL to ma
 - Update existing student data
 - Delete student records
 - Search student by ID
-- Alert message and redirection on every operation
 
 ## 🛠 Tech Stack
 
