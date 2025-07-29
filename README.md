@@ -20,5 +20,5 @@ A simple Java EE web application using Servlets, JSP, Hibernate, and MySQL to ma
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshots/Screenshot1.png)
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 1](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot1.png)
