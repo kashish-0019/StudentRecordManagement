@@ -1,0 +1,17 @@
+# Ignore class files
+*.class
+
+# Ignore Eclipse files
+*.project
+*.classpath
+.settings/
+
+# Ignore build folders
+target/
+build/
+
+# Ignore logs
+*.log
+
+# Ignore DS_Store (Mac)
+.DS_Store
